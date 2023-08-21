@@ -1,2 +1,2 @@
 # micheal-iportfolio
-this a repo created formy projects .
+this a repo created for my projects .
